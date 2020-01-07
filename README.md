@@ -14,10 +14,10 @@ This data is from Kaggle – the goodreads dataset. The dataset has 10,000 books
 Python 
 
 ### Algorithms :
-1.user-based collaborative filtering   (cosine similarity and correlation) 
-2.item-based collaborative filtering  (cosine similarity and correlation)
-3.Apriori algorithm
-4.K – means clustering
+1. user-based collaborative filtering   (cosine similarity and correlation) 
+2. item-based collaborative filtering  (cosine similarity and correlation)
+3. Apriori algorithm
+4. K – means clustering
 
 ### Approach :
 1.	First we looked into content-based recommendation. The dataset did not contain the synopsis of the books to use content-based recommendation and hence moved on to collaborative based recommendations.
