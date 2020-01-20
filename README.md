@@ -1,4 +1,4 @@
-# Book Recomendation
+# Book Recommendation
 
 ## Meet your next favourite book!
 
