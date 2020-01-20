@@ -1,8 +1,8 @@
-# Book Reccomendation
+# Book Recomendation
 
 ## Meet your next favourite book!
 
-This project was built by Aadithya Anandraj, Sayesha Aravapallui, Khyathi Balusu, Lashay Fontenot and Sadhana Koneni
+This project was built by Aadithya Anandraj, Sayesha Aravapalli, Khyathi Balusu, Lashay Fontenot and Sadhana Koneni
 
 ### Business problem :  
 Today in the world of personalized marketing it is important to understand each customer and target them accordingly. The task is to recommend books to users based on their given ratings of other books.
