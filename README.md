@@ -2,16 +2,15 @@
 
 ## Meet your next favourite book!
 
-This project was built by Aadithya Anandraj, Sayesha Aravapalli, Khyathi Balusu, Lashay Fontenot and Sadhana Koneni
-
 ### Business problem :  
 Today in the world of personalized marketing it is important to understand each customer and target them accordingly. The task is to recommend books to users based on their given ratings of other books.
 
 ### Data source :
 This data is from Kaggle – the goodreads dataset. The dataset has 10,000 books which were rated by more than 6 million users. 
 
-### Toolkit  : 
-Python 
+### Technologies :
+
+Python 3.7.3
 
 ### Algorithms :
 1. user-based collaborative filtering   (cosine similarity and correlation) 
@@ -27,9 +26,11 @@ Cosine similarity and correlation were used to find similarity between items/use
 4.	Apart from the above we also tried aprior algorithm
 
 ### Insights :  
-Cosine similarity and correlation performed pretty similar. Item based collaborative filtering maybe a better recommendation heuristic in this case.
+1.Cosine similarity and correlation performed pretty similar. Item based collaborative filtering maybe a better recommendation heuristic in this case.
+2. A mixture of books from clsuters can be reccomeneded which can help solve the long tail problem and increase visibility of less popular but good books.
 
-### Future scope : 
-1. The performance metric can be changed to just finding the RMSE based on the top 10 books. 
-2. Can use complete dataset by using better computational resources.
-3. Can also try to get the genres to better cluster books, which was very ambiguous in the dataset.
+
+This project was built by Aadithya Anandraj, Sayesha Aravapalli, Khyathi Balusu, Lashay Fontenot and Sadhana Koneni
+
+
+
