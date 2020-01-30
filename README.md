@@ -26,7 +26,7 @@ Cosine similarity and correlation were used to find similarity between items/use
 4.	Apart from the above we also tried aprior algorithm
 
 ### Insights :  
-1.Cosine similarity and correlation performed pretty similar. Item based collaborative filtering maybe a better recommendation heuristic in this case.
+1. Cosine similarity and correlation performed pretty similar. Item based collaborative filtering maybe a better recommendation heuristic in this case.
 2. A mixture of books from clsuters can be reccomeneded which can help solve the long tail problem and increase visibility of less popular but good books.
 
 
